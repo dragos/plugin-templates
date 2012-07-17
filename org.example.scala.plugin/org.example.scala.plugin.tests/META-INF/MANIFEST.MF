@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Eclipse plugin in Scala (Test)
+Bundle-SymbolicName: org.example.scala.plugin.tests
+Bundle-Version: 0.1.0.qualifier
+Bundle-Vendor: example.org
+Fragment-Host: org.example.scala.plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Require-Bundle: org.scala-ide.scala.library,
+ org.junit4;bundle-version="4.5.0"
+Bundle-ClassPath: .
