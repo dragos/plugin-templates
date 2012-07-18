@@ -4,7 +4,7 @@
       label="Scala IDE plugin template"
       version="0.1.0.qualifier"
       provider-name="example.org"
-      lugin="org.example.scala-ide.plugin">
+      plugin="org.example.scala-ide.plugin">
 
    <description url="http://example.org">
       Template of a Scala IDE plug-in
